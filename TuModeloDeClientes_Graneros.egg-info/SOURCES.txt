@@ -1,0 +1,6 @@
+README.md
+setup.py
+TuModeloDeClientes_Graneros.egg-info/PKG-INFO
+TuModeloDeClientes_Graneros.egg-info/SOURCES.txt
+TuModeloDeClientes_Graneros.egg-info/dependency_links.txt
+TuModeloDeClientes_Graneros.egg-info/top_level.txt
